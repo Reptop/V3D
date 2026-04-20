@@ -1,0 +1,6 @@
+visualizer_demo
+sound.wav
+miniaudio/
+*.o
+
+
